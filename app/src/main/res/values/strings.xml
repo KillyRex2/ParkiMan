@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ParkiManiacs</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Pinche Kikeman!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Perfil</string>
+    <string name="menu_gallery">Formas de pago</string>
+    <string name="menu_slideshow">Saldo</string>
+    <string name="menu_tools">Vehiculos</string>
+    <string name="menu_share"></string>
+    <string name="menu_send"></string>
+
+    <string name="welcome">Bienvenidos ManiaCorp</string>
+    <string name="promt_email">Ingresar su email</string>
+    <string name="action_sing_in">Continuar</string>
+    <string name="MNC">®MANIACORP</string>
+
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="error_invalid_email">Esta dirección email es invalida</string>
+    <string name="action_sing_in_short">Sing in</string>
+    <string name="prompt_password">Ingrese su contraseña</string>
+    <string name="error_invalid_pasw">Error contraseña menor a 6 caracteres!</string>
+    <string name="networks">Comprueba tu conexion a internet!>:v</string>
+    <string name="invalid_credentials">Credenciales invalidas!</string>
+</resources>

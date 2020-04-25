@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738873811712",
+    "firebase_url": "https://parkimaniaks.firebaseio.com",
+    "project_id": "parkimaniaks",
+    "storage_bucket": "parkimaniaks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738873811712:android:2d4ef8629a633f725e89e5",
+        "android_client_info": {
+          "package_name": "com.example.userskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738873811712-blffrad70kokk2ic6kf2gfusqqa4ns4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.userskotlin",
+            "certificate_hash": "63fe91acf3726353f7dd0aa03ce83d589170080d"
+          }
+        },
+        {
+          "client_id": "738873811712-ic18d4evl59st2b02k723cf5eqht8j4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3mQYHsJbV_7ZNo7mGjKQ5AacN4YSg39s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738873811712-ic18d4evl59st2b02k723cf5eqht8j4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
